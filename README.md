@@ -8,5 +8,5 @@ Como com o passar do tempo iremos aprender mais e mais coisas, decidir por regis
 
 ## 💻 Projetos 
 
-- [**Gerador e Autenticador de CPF**](): Nesse pequeno projeto nos foi proposto que usassemos o algoritmo de validação do CPF + o módulo random para gerar um novo CPF e validar logo em seguida. 
+- [**Gerador e Autenticador de CPF**](https://github.com/TaeRocha/curso-python-udemy/blob/main/gerador-autenticdor-cpf.py): Nesse pequeno projeto nos foi proposto que usassemos o algoritmo de validação do CPF + o módulo random para gerar um novo CPF e validar logo em seguida. 
 
